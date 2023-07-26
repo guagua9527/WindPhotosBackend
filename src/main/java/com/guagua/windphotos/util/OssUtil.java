@@ -31,8 +31,8 @@ public class OssUtil {
 
     private static final String ENDPOINT = "https://oss-cn-chengdu.aliyuncs.com";
     private static final String BUCKET_NAME = "wind-photos";
-    private static final String ACCESS_KEY_ID = "LTAI5tFDt6xcCRm8t8Ywp5VN";
-    private static final String ACCESS_KEY_SECRET = "vqxDKiTNJ0O9YUdH3ijJc0ZvUYkavy";
+    private static final String ACCESS_KEY_ID = "ACCESS_KEY_ID";
+    private static final String ACCESS_KEY_SECRET = "ACCESS_KEY_SECRET";
 
     private static final CredentialsProvider credentialsProvider = new DefaultCredentialProvider(ACCESS_KEY_ID, ACCESS_KEY_SECRET);
 
